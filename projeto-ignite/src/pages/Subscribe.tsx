@@ -5,6 +5,7 @@ import { Logo } from "../components/logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 
 
+
 export function Subscribe(){
 
 const navigate = useNavigate()
@@ -76,7 +77,8 @@ async function handleSubscribe(event : FormEvent){
     
     </div>
 
-            <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+            <img src="/src/assets/code-mockup.png" className="mt-10 bg-mockup" alt="" />
+            
         </div>
     )
 }
