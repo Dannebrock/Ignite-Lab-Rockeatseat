@@ -22,7 +22,7 @@ Todas as aulas disponibilizadas no evento são cadastradas no [GraphCMS](https:/
 -  Apollo
 -  Codegen GraphQL
 -  Vime
-- 
+
 
 ## :gear: Como executar
 
